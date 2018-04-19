@@ -4,4 +4,5 @@ function onLoad() {
 }
 function onDeviceReady() {
     op.innerHTML = "Hey app is on";
+    op.innerHTML += "And so is this change";
 }
