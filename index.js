@@ -5,4 +5,5 @@ function onLoad() {
 function onDeviceReady() {
     op.innerHTML = "Hey app is on";
     op.innerHTML += "And so is this change";
+    op.innerHTML += "And so is this change from mobile";
 }
