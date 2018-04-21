@@ -8,4 +8,5 @@ function onDeviceReady() {
     op.innerHTML += "And so is this change from mobile<br/>";
     op.innerHTML += "Showing demo to rahul<br/>";
     op.innerHTML += "Testing office machine update<br/>";
+    op.innerHTML += "Mac test<br/>";
 }
